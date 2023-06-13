@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "96FD277B-3FA9-4496-AC98-1A84922CA166"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C88EAE1-E233-4846-9B69-B746905741C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Food Application/RecipeVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getRecipes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8C88EAE1-E233-4846-9B69-B746905741C1 - 4f4a18d3fcd8d76a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Food_Application.RecipeVM.getRecipes() async throws -&gt; ()"
+                  moduleName = "Food Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satheeshkumar/Desktop/iostuto/Food%20Application/Food%20Application/RecipeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "8C88EAE1-E233-4846-9B69-B746905741C1 - 4f4a18d3fcd8d76a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Food_Application.RecipeVM.getRecipes() async throws -&gt; ()"
+                  moduleName = "Food Application"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satheeshkumar/Desktop/iostuto/Food%20Application/Food%20Application/RecipeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
